@@ -1,0 +1,4 @@
+In Python you can make variables.
+In Python you can make lists.
+In Python you can loop through lists.
+In Python you can do anything your heart desires, including but not limited to the above.

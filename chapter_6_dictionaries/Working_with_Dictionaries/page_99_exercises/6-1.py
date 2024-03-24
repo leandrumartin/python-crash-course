@@ -1,0 +1,2 @@
+friend = {'first_name': 'jeff', 'last_name': 'robinson', 'age': 18, 'city': 'carbondale'}
+print(f"My friend {friend['first_name'].title()} {friend['last_name'].title()} is {friend['age']} years old and lives in {friend['city'].title()}.")
